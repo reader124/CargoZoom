@@ -4,9 +4,7 @@ The player uses the arrow keys to control a car. They can drive the car around s
 
 The purpose for making this project was to gain experience with writing code for a 3D space
 
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the game being played and a walkthrough of the code.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video] https://www.youtube.com/watch?v=su4rNLbhFg4
 
 # Development Environment
 
